@@ -1,0 +1,46 @@
+body {
+    background-color:rgb(0, 0, 0);
+  }
+  h1 {
+    color: rgb(247, 247, 247);
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    text-align:center;
+  
+  }
+  p {
+    color: rgb(253, 253, 253);
+    text-align:center;
+    
+  }
+  a:link {
+    color: rgb(250, 252, 250);
+    background-color: transparent;
+    text-decoration: none;
+    font-family: 'Courier New', Courier, monospace;
+    margin-left: 20px;
+    margin-right: 20px;
+  }
+  a:visited {
+    color: rgb(121, 58, 68);
+    background-color: transparent;
+    text-decoration: none;
+    font-family: 'Courier New', Courier, monospace;
+    margin-left: 20px;
+    margin-right: 20px
+  }
+  a:hover {
+    color: red;
+    background-color: transparent;
+    text-decoration: none;
+    font-family: 'Courier New', Courier, monospace;
+    margin-left: 20px;
+    margin-right: 20px
+  }
+  a:active {
+    color: rgb(253, 253, 0);
+    background-color: transparent;
+    text-decoration: none;
+    font-family: 'Courier New', Courier, monospace;
+    margin-left: 20px;
+    margin-right: 20px
+  }
